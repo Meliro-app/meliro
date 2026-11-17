@@ -1,6 +1,6 @@
 # Merge
 
-Réviser ses cours avec une IA qui tourne sur ton Mac : fiches, cartes de révision et cartes mentales écrites à partir de tes cours (PDF, Word, PowerPoint), chaque point renvoyant à sa page du cours. Gratuit, sans abonnement. Tes cours ne quittent jamais ton Mac.
+Réviser ses cours avec une IA qui tourne sur ton Mac : fiches, flashcards et cartes mentales écrites à partir de tes cours (PDF, Word, PowerPoint), chaque point renvoyant à sa page du cours. Gratuit, sans abonnement. Tes cours ne quittent jamais ton Mac.
 
 **Télécharger :** https://github.com/Merge-ai-demo/merge/releases/latest
 
